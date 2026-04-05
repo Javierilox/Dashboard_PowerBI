@@ -31,7 +31,7 @@ Esta vista proporciona una "foto instantánea" de la salud financiera y operativ
 * **KPIs Principales:** Margen de Utilidad, Total de Ingresos, Número de Transacciones.
 * **Análisis:** Distribución de ingresos por categoría de producto, evolución histórica de ventas y cumplimiento de objetivos.
 
-<img src="1.Dashboard_Ejecutivo.jpg" alt="Dashboard Ejecutivo" width="100%">
+![Dashboard Ejecutivo](1.Dashboard_Ejecutivo.jpg)
 
 ### 2️⃣ Detalle de Ventas (Sales Deep Dive)
 
@@ -40,7 +40,7 @@ Un desglose detallado para entender el *cómo* y el *dónde* de los ingresos.
 * **KPIs Principales:** Total Unidades Vendidas, Ingreso Promedio por Transacción.
 * **Análisis:** Desempeño regional (mapas), ranking de productos estrella y segmentación de ventas por canal.
 
-<img src="2.Dashboard_Ventas.jpg" alt="Dashboard de Ventas" width="100%">
+![Dashboard de Ventas](2.Dashboard_Ventas.jpg)
 
 ### 3️⃣ Control de Inventario (Inventory Management)
 
@@ -49,7 +49,7 @@ Vista crítica para la optimización de la cadena de suministro y capital de tra
 * **KPIs Principales:** Total Stock Disponible, Costo Total de Inventario, Índice de Rotación.
 * **Análisis:** Identificación de productos con sobrestock o riesgo de quiebre, valorización del inventario por categoría.
 
-<img src="3.Dashboard_Control_Inventario.jpg" alt="Dashboard de Inventario" width="100%">
+![Dashboard de Inventario](3.Dashboard_Control_Inventario.jpg)
 
 ---
 
